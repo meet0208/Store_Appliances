@@ -12,7 +12,7 @@ public enum Type {
     MICROWAVE("Microwave");
 
     public final String label;
-    private Type(String label){
+    Type(String label){
         this.label = label;
     }
     public String getLabel(){

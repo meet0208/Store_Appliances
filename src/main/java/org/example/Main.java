@@ -289,6 +289,3 @@ public class Main {
         System.out.println(Arrays.toString(inventory));
     }
 }
-
-// max_size should be minimum =1, need to check if negative or string is entered
-// allowed to add should also be 1, , need to check if negative or string is entered
